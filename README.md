@@ -18,7 +18,7 @@ This project focuses on the **application of blockchain technology** in disaster
 ## Project Flow
 Here is an overview of the process and system workflow:
 
-![Flowchart of Algorithm](path-to-your-image-flowchart.png)
+
 
 ## Tools and Technologies
 - **Blockchain Framework**: Ethereum (using Solidity for smart contracts)
