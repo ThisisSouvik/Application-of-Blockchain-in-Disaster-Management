@@ -16,8 +16,8 @@ This project focuses on the **application of blockchain technology** in disaster
 - **Cryptocurrency-based Aid Distribution**: Transparent and efficient financial aid distribution.
 
 ## Project Flow
-Here is an overview of the process and system workflow:
-
+Here is an overview of the process and system workflow: 
+Flowchart.jpg
 
 
 ## Tools and Technologies
